@@ -1,0 +1,5 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('src0_82.jar'))
+dependencies {
+   // implementation files('src0_82.jar')
+}
