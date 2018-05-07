@@ -22,7 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="0.3"
-       />
+        />
     <WebView
         android:id="@+id/webView2"
         android:layout_width="match_parent"
@@ -34,7 +34,7 @@
     <Button
         android:id="@+id/btnId"
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="50dp"
         android:text="FIND NEXT"/>
     <TextView
         android:id="@+id/contentView"
